@@ -1,0 +1,6 @@
+envs
+.vscode
+files
+old_files
+*.csv
+*.py~
